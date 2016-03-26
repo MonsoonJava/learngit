@@ -7,3 +7,5 @@ hahahaha
 this word is in master
 this word in feature1
 
+
+add merge commit
